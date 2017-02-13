@@ -1,0 +1,86 @@
+/* Like Btn */
+._4x9_._48-k::before, ._sa_ ._48-k::before {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-btn.png") !important;
+  background-size: 14px !important;
+  background-position: 0px 0px !important;
+}
+
+/* ============ REACTION OVERRIDES ============ */
+/* ============ ================== ============ */
+
+/* Large like reaction */
+._2jry ._9-_._3j7l {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-like.gif") !important;
+  background-size: 48px !important;
+  background-position: 0px 0px !important;
+}/* Small like reaction */
+._2p7a._3j7l, ._9--._3j7l {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-like.gif") !important;
+  background-size: 15px !important;
+  background-position: 0px 0px !important;
+}
+
+
+/* Large love reaction */
+._2jry ._9-_._3j7m {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-love.gif") !important;
+  background-size: 48px !important;
+  background-position: 0px 0px !important;
+}/* Small love reaction */
+._2p7a._3j7m, ._9--._3j7m {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-love.gif") !important;
+  background-size: 15px !important;
+  background-position: 0px 0px !important;
+}
+
+
+/* Large haha reaction */
+._2jry ._9-_._3j7o {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-haha.png") !important;
+  background-size: 48px !important;
+  background-position: 0px 0px !important;
+}/* Small haha reaction */
+._2p7a._3j7o, ._9--._3j7o {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-haha.png") !important;
+  background-size: 15px !important;
+  background-position: 0px 0px !important;
+}
+
+
+/* Large wow reaction */
+._2jry ._9-_._3j7n {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-wow.gif") !important;
+  background-size: 48px !important;
+  background-position: 0px 0px !important;
+}/* Small wow reaction */
+._2p7a._3j7n, ._9--._3j7n {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-wow.gif") !important;
+  background-size: 15px !important;
+  background-position: 0px 0px !important;
+}
+
+
+/* Large sad reaction */
+._2jry ._9-_._3j7r {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-sad.gif") !important;
+  background-size: 48px !important;
+  background-position: 0px 0px !important;
+}/* Small sad reaction */
+._2p7a._3j7r, ._9--._3j7r {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-sad.gif") !important;
+  background-size: 15px !important;
+  background-position: 0px 0px !important;
+}
+
+
+/* Large angry reaction */
+._2jry ._9-_._3j7q {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-angry.gif") !important;
+  background-size: 48px !important;
+  background-position: 0px 0px !important;
+}/* Small angry reaction */
+._2p7a._3j7q, ._9--._3j7q {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/dove-angry.gif") !important;
+  background-size: 15px !important;
+  background-position: 0px 0px !important;
+}
