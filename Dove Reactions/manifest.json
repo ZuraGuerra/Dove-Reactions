@@ -3,7 +3,7 @@
 
   "name": "Dove Reactions",
   "description": "Replaces Facebook Reactions with Trash Doves!",
-  "version": "1.1",
+  "version": "1.2",
 
   "icons": {
     "128": "images/dove-icon.png"
@@ -14,10 +14,6 @@
     "default_title": "Dove Reactions"
   },
 
-  "background": {
-    "scripts": ["doves.js"]
-  },
-
   "content_scripts":[
     {
       "matches": ["https://www.facebook.com/*"],
@@ -25,8 +21,6 @@
       "run_at": "document_start"
     }
   ],
-
-  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
 
   "web_accessible_resources": [
     "images/*",
